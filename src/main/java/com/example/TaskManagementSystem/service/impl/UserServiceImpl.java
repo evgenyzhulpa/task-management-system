@@ -1,11 +1,8 @@
 package com.example.TaskManagementSystem.service.impl;
 
 import com.example.TaskManagementSystem.exception.EntityNotFoundException;
-import com.example.TaskManagementSystem.model.Task;
 import com.example.TaskManagementSystem.model.User;
-import com.example.TaskManagementSystem.repository.TaskRepository;
 import com.example.TaskManagementSystem.repository.UserRepository;
-import com.example.TaskManagementSystem.service.TaskService;
 import com.example.TaskManagementSystem.service.UserService;
 import com.example.TaskManagementSystem.utils.BeanUtils;
 import lombok.RequiredArgsConstructor;

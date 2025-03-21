@@ -1,12 +1,6 @@
 package com.example.TaskManagementSystem.dto.response;
 
-import com.example.TaskManagementSystem.model.Task;
-import jakarta.persistence.CascadeType;
-import jakarta.persistence.Column;
-import jakarta.persistence.FetchType;
-import jakarta.persistence.OneToMany;
 import lombok.Data;
-import lombok.ToString;
 
 import java.util.ArrayList;
 import java.util.List;

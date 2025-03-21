@@ -2,7 +2,6 @@ package com.example.TaskManagementSystem.dto.request;
 
 import com.example.TaskManagementSystem.model.TaskPriority;
 import com.example.TaskManagementSystem.model.TaskStatus;
-import com.example.TaskManagementSystem.model.User;
 import lombok.Data;
 
 @Data

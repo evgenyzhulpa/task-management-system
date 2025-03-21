@@ -3,7 +3,6 @@ package com.example.TaskManagementSystem.mapper;
 import com.example.TaskManagementSystem.dto.request.UpsertTaskRequest;
 import com.example.TaskManagementSystem.model.Task;
 import com.example.TaskManagementSystem.service.UserService;
-import com.example.TaskManagementSystem.utils.BeanUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 
 public abstract class TaskMapperDelegate implements TaskMapper {

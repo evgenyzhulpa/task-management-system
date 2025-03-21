@@ -1,13 +1,9 @@
 package com.example.TaskManagementSystem.mapper;
 
 import com.example.TaskManagementSystem.dto.request.UpsertTaskRequest;
-import com.example.TaskManagementSystem.dto.request.UpsertUserRequest;
 import com.example.TaskManagementSystem.dto.response.TaskListResponse;
 import com.example.TaskManagementSystem.dto.response.TaskResponse;
-import com.example.TaskManagementSystem.dto.response.UserListResponse;
-import com.example.TaskManagementSystem.dto.response.UserResponse;
 import com.example.TaskManagementSystem.model.Task;
-import com.example.TaskManagementSystem.model.User;
 import org.mapstruct.DecoratedWith;
 import org.mapstruct.Mapper;
 import org.mapstruct.Mapping;

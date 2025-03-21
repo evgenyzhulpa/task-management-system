@@ -1,13 +1,9 @@
 package com.example.TaskManagementSystem.mapper;
 
 import com.example.TaskManagementSystem.dto.request.UpsertCommentRequest;
-import com.example.TaskManagementSystem.dto.request.UpsertTaskRequest;
 import com.example.TaskManagementSystem.dto.response.CommentListResponse;
 import com.example.TaskManagementSystem.dto.response.CommentResponse;
-import com.example.TaskManagementSystem.dto.response.TaskListResponse;
-import com.example.TaskManagementSystem.dto.response.TaskResponse;
 import com.example.TaskManagementSystem.model.Comment;
-import com.example.TaskManagementSystem.model.Task;
 import org.mapstruct.DecoratedWith;
 import org.mapstruct.Mapper;
 import org.mapstruct.Mapping;

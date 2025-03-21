@@ -1,6 +1,5 @@
 package com.example.TaskManagementSystem.dto.request;
 
-import com.example.TaskManagementSystem.model.User;
 import lombok.Data;
 
 @Data
